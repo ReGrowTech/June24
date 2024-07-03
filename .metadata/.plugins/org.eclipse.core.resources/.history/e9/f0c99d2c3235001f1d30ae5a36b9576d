@@ -1,0 +1,18 @@
+package basic;
+
+import java.util.Scanner;
+
+public class Demo {
+	public static void main(String [] args) {
+		
+		Scanner myObj = new Scanner(System.in);
+		String character;
+		
+		// Enter any character and press Enter
+		
+	    System.out.println("Enter any character"); 
+	    String character = myObj.nextLine();   
+	       
+	}
+
+}
