@@ -28,7 +28,7 @@ public class smallestnumber {
 		    {
 			System.out.println(c+"is a smaller");
 		    }
-		}  25    
+		}  
 		
 		
 
