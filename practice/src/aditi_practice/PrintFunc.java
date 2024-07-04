@@ -9,6 +9,8 @@ public class PrintFunc {
 		System.out.println( 'a' + 'b'+ 'c' +"REgrow" + 1); //294REgrow1
 		System.out.println("REgrow" + 1 + 32 +(1+2));//Regrow1323
 		
+		System.out.println("Updated ");
+		
 
 	}
 
