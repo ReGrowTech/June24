@@ -28,8 +28,13 @@ public class smallestnumber {
 		    else
 {
 			System.out.println(c+"is a smaller");
+<<<<<<< HEAD
  }
 }    
+=======
+		    }
+		}  
+>>>>>>> 12f7e2889865276c806fa4fc4da1990698d62761
 		
 		
 

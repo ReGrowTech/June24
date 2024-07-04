@@ -54,11 +54,7 @@ public class Print {
 		int result = (a>b)? a:b;
 		System.out.println("the greatest value is"+result);
 		
-		
-		
-		
-		
-		
+
 	}
 
 }
