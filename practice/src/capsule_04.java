@@ -13,14 +13,7 @@ public class capsule_04 {
 		int quotient = (a/d);
 		int reminder = (a%d);
 		System.out.println(quotient);
-		System.out.println(reminder);
-		
-		
-		
-		
-		
-		
-		
+		System.out.println(reminder);	
 	}
 
 }
