@@ -10,7 +10,11 @@ public static void main(String []args) {
 	while(n<=a)
 	{
 		if(n%3==0)
+		{
+			
+		
 		System.out.println(n);
+		}
 		n++;
 	}
 	

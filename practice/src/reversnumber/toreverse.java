@@ -6,6 +6,7 @@ public static void main(String[]args) {
 int n=141;
 int ld;
 int rev =0;
+int n1=(n=rev);
 while(n<0)
 {
 	ld= n%10;
