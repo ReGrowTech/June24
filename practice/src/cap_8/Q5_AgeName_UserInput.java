@@ -11,7 +11,7 @@ public class Q5_AgeName_UserInput {
 	System.out.println("Enter your name here");
 	String name = sc.nextLine();
 	
-	System.out.println("My age is:" + age 
+	System.out.println("My age is:" + age );
 	}
 
 }

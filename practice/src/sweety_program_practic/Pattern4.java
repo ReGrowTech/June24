@@ -23,6 +23,7 @@ public class Pattern4 {
                }
                System.out.println();
             }
+            sc.close();
             
 	}
 

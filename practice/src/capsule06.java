@@ -1,14 +1,15 @@
 
 //WAP to find the greater of 3 number using if else if else
 
-public class capsule06
-{
-   public static void main(String[]args)
-   {
+public class capsule06 {
+	
+   public static void main(String[]args){
+	   
        int a = 56;
        int b = 66;
        int c = 77;
-       if(a>b && b>c)
+       
+       if(a>b && a>c)
        {
 	          System.out.println(a+ "is greater");      
 	   }
