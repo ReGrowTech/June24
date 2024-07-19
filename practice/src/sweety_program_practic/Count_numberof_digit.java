@@ -20,6 +20,7 @@ public class Count_numberof_digit {
 			count++;
 		}
 		System.out.println(" Numbe of digit in the number  are "+"  : "+count);
+		sc.close();
 	}
 
 }
