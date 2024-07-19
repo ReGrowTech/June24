@@ -6226,6 +6226,7 @@ not correct please set the HOME environment variable and restart Eclipse. Otherw
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2024-07-16 09:33:12.131 -----------------------------------------------
 eclipse.buildId=4.32.0.20240606-1231
 java.version=22.0.1
@@ -6307,6 +6308,8 @@ not correct please set the HOME environment variable and restart Eclipse. Otherw
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 =======
+=======
+>>>>>>> 40af8206a836279db8eccaa2d7b7063b2100c3ba
 !SESSION 2024-07-17 11:36:39.320 -----------------------------------------------
 eclipse.buildId=4.32.0.20240606-1231
 java.version=22.0.1
@@ -7182,6 +7185,7 @@ Caused by: java.io.FileNotFoundException: C:\Program Files\Git\mingw64\share\git
 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
 	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:178)
 	... 73 more
+<<<<<<< HEAD
 >>>>>>> 40af8206a836279db8eccaa2d7b7063b2100c3ba
 
 !ENTRY org.eclipse.ui.ide 4 4 2024-07-19 09:15:07.590
@@ -7384,3 +7388,5 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+=======
+>>>>>>> 40af8206a836279db8eccaa2d7b7063b2100c3ba
