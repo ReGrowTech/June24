@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 content_assist_favorite_static_members=org.testng.Assert.*
 content_assist_number_of_computers=17
+>>>>>>> 780d19cdaee7abac0761eb7a11d41754bedbed3c
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
