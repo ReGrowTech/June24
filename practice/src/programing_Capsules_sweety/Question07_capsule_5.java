@@ -9,11 +9,11 @@ public class Question07_capsule_5 {
 		int a= 50;
 		int b= 2;
 		
-	   int div = a/b;
-	   int quot =a%10;
+	   int quot = a/b;
+	   int rem =a%b;
 	   
-	   System.out.println(div);
 	   System.out.println(quot);
+	   System.out.println(rem);
 	}
 
 }

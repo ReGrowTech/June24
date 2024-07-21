@@ -7,9 +7,9 @@ public class Maximum_3no_ternary_capsule_7 {
 
 		// Write a program to print the maximum of ternary operator 
 		
-		int a= 5;
-		int b= 12 ;
-		int c=3;
+		int a= 9;
+		int b= 10 ;
+		int c=20;
 		
 		int max = (a>b)? (a>c)?a:c : (b>c)?b:c;
 		

@@ -1,6 +1,6 @@
 package programing_Capsules_sweety;
 
-public class Check_num_divisible_11_capsule_4 {
+public class Check_num_divisible_11_qno04_capsule_7_ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
