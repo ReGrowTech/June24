@@ -5,8 +5,8 @@ public class Arithmatic_operator_capsule_5 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a=8;
-		int b= 3;
+		int a=10;
+		int b= 5;
 		int add , sub , multi ,div ,modul ;
 		
 		add = a+b;

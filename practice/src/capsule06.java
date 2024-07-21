@@ -22,14 +22,4 @@ public class capsule06 {
 	   System.out.println(c + "is greater");
        }
    }
-
-
-
-
-
-
-
-
-
-}
 }

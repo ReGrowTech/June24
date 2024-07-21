@@ -12,7 +12,7 @@ public class Primitive_datatype_capsule_3 {
 		int num3= 457;
 		long num4=56557767;
 		double num5 =67.097;
-		float num6=(float) 855.965;
+		 float  num6=  (float) 855.965;
 		
 		char ch= 'a';
 		boolean a=true;
