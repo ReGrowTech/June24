@@ -18,7 +18,7 @@ public class Check_using_ASCII_value {
 		  System.out.println("The Character for Ascii value "+ ascii_val +" is "+ch);
 		  
 		}
-		if((ascii_val>= 65 && ascii_val <=90) || (ascii_val>= 97 && ascii_val <=122))
+		else if((ascii_val>= 65 && ascii_val <=90) || (ascii_val>= 97 && ascii_val <=122))
 		{
 			 System.out.println("It is an alphabet.");
 		}
