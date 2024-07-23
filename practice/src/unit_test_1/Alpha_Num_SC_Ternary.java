@@ -1,4 +1,4 @@
-package unit_test_I;
+package unit_test_1;
 
 public class Alpha_Num_SC_Ternary {
 

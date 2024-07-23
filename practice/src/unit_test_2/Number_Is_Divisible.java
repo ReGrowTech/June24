@@ -1,4 +1,4 @@
-package unit_test_II;
+package unit_test_2;
 
 public class Number_Is_Divisible {
 
