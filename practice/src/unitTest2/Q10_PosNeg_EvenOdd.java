@@ -2,7 +2,7 @@ package unitTest2;
 
 public class Q10_PosNeg_EvenOdd {
 public static void main (String args[]) {
-	int no = -16;
+	int no = 37;
 	if(no>0)
 	{
 	if(no%2==0)

@@ -14,7 +14,7 @@ public class Q1_print1_N {
 			System.out.println(a);
 			a++;
 		}
-
+	
 	}
 
 }
