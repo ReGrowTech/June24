@@ -9,7 +9,7 @@ public class Leap_year_using_switch_case {
             
 		 Scanner scanner = new Scanner(System.in);
 	        System.out.println("Enter a year: ");
-	        int year = scanner.nextInt();
+	        int year = scanner.nextInt();//2024
 
 	        switch (year % 4) 
 	        {
