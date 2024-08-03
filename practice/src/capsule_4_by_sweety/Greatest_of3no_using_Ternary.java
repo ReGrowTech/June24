@@ -4,7 +4,7 @@ public class Greatest_of3no_using_Ternary {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		// offline Class capsules
 		int a=89;
 		int b=789;
 		int c=456;

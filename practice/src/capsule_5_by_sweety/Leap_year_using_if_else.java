@@ -5,6 +5,8 @@ public class Leap_year_using_if_else {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		// offline Class capsules
+		
 		int yr =2004;
 		
 		if((yr%100==0 && yr%400==0)||(yr%100==0 && yr%4==0))
