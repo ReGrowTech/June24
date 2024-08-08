@@ -4,13 +4,13 @@ public class Armstrong_100_to_300 {
 
 	public static void main(String[] args) {
 		
-// WAP to print all the Armstrong number between 100-300.
+// WAP to print all the Armstrong number between 100-400.
 		
 		System.out.println("Armstrong numbers are ");
 		
 		int i = 100;
 		
-		while(i<=300)
+		while(i<=400)
 		{
 		
 			int n = i;
