@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-22"/>
-	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\Users\HP\Documents\All Java folders"/>
+	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\Users\HP\Documents\Second_Session_Java"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo.comments" value="false"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
@@ -25,8 +25,8 @@
 		<item key="create_package_info_java" value="false"/>
 	</section>
 	<section name="NewClassCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="404"/>
-		<item key="DIALOG_Y_ORIGIN" value="8"/>
+		<item key="DIALOG_X_ORIGIN" value="800"/>
+		<item key="DIALOG_Y_ORIGIN" value="29"/>
 		<item key="DIALOG_WIDTH" value="574"/>
 		<item key="DIALOG_HEIGHT" value="659"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -47,11 +47,11 @@
 		<item key="height" value="400"/>
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
-		<item key="renameSubpackages" value="false"/>
+		<item key="renameSubpackages" value="true"/>
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
-		<item key="updateSimilarElements" value="false"/>
+		<item key="updateSimilarElements" value="true"/>
 		<item key="updateSimilarElementsMatchStrategy" value="1"/>
 	</section>
 	<section name="JavaProjectWizard.dialogBounds">
