@@ -12,7 +12,7 @@ public class Sum_even_string {
 			char ch=str.charAt(i);
 			if(Character.isDigit(ch)&&(ch%2==0))
 			{
-				sum=sum+(int)ch;
+				sum=sum+Character.getNumericValue(ch);
 			}
 		}
 		System.out.println("sum of even numbers is="+sum);
