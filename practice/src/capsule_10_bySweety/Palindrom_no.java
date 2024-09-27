@@ -11,8 +11,9 @@ public class Palindrom_no {
 		System.out.print("enter a simple no  :  ");
 		int orig_n= sc.nextInt (); //145
 		
-		int n= orig_n ;
+		int n= orig_n ;    
 		int rev=0;
+		 
 		
 		while(n>0)
 		{
