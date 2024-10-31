@@ -20,7 +20,7 @@ public class PrimeNo_Function {
 	public static void Logic_prime(int num)
 	{
 		int cnt=0;
-		for(int i=1;i<=num ;i++ )
+		for(int i=1;i<num ;i++ )
 		{
 			if(num%i==0)
 			{
